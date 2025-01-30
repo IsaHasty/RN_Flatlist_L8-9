@@ -11,6 +11,8 @@ const defaultStyles = StyleSheet.create({
   titleContainer: {
     backgroundColor: colors.primary,
     padding: 10,
+    width: 200,
+    margin: 10,
   },
   textContainer: {
     padding: 10,
